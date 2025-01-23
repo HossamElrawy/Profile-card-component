@@ -22,16 +22,6 @@ This is a solution to the [Profile Card Component challenge on Frontend Mentor](
 
 The challenge was to build a profile card component that looks as close as possible to the provided design. The component should be responsive and work well on all screen sizes.
 
-### Screenshot
-
-![Desktop View](./screenshots/desktop.png)
-![Mobile View](./screenshots/mobile.png)
-
-### Links
-
-- [Live Site URL](https://your-live-site-url.com)
-- [Solution URL](https://www.frontendmentor.io/solutions/your-solution-url)
-
 ## My Process
 
 ### Built With
