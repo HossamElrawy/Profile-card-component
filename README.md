@@ -6,7 +6,6 @@ This is a solution to the [Profile Card Component challenge on Frontend Mentor](
 
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
